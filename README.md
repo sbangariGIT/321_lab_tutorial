@@ -1,3 +1,8 @@
 Lab 2
 
-in my new branch new changes
+Made a new branch
+Merged the branch to main
+then published a new branch
+then tried a pull request
+
+thank you
